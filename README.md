@@ -29,5 +29,18 @@ Data Cleaning: Handle missing values and encode categorical variables.
 Feature Selection: Identify relevant features for predicting car prices.
 Model Training: Fit the linear regression model using training data.
 
+## Model Deployment
+**Development Environment**
+PyCharm: We used PyCharm for developing the Flask web application, which included writing, debugging, and testing the code.
+
+## Hosting
+**Connecting to Git Repository:** Integrated the app with a Git repository for continuous deployment.
+**Configuration:** Set up deployment settings and environment variables on Render.
+**Deployment:** Render handled the build and deployment, making the application accessible via a public URL.
+
+# Conclusion
+
+The project successfully developed and deployed a car price predictor using the Linear Regression algorithm. The model achieved high performance metrics and was effectively integrated into a user-friendly web application.
+
 # Results
-After training, the model can be evaluated using test data to check its accuracy. Visualizations of predicted vs actual prices are provided to help assess performance.
+After training, the model can be evaluated using test data to check its accuracy. Visualizations of predicted vs actual prices are provided to help assess performance. The web application delivered real-time feedback and met the project goals effectively.
